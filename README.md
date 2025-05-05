@@ -120,5 +120,21 @@ Your goal is to guide the chicken across a busy highway, avoiding cars and colle
 ## Developer Information
 **Chicken Crossing Chaos** was created by **ChillHack Jake**, a web developer based in Hong Kong. With a passion for creating fun and engaging games, Jake combined his programming skills and love for humor to craft this chaotic chicken adventure.
 
-- **Contact**: Reach out via [GitHub](https://github.com/ChillHackLab) or email (info@chillhack.net) for feedback or inquiries. - **Contributions**: Want to contribute? Check the repository for issues or submit pull requests with improvements or bug fixes.  ## Support the Developer If you like this game, please buy me a coffee!  **BTC**: 3MNNntE4NtKiiwWEutXSPitVhubfuBeLLr  ## License This project is licensed under the MIT License. See the `LICENSE` file for details.  ## Acknowledgments - **Pygame Community**: Thanks for providing an awesome library for game development. - **Inspiration**: Classic arcade games like Frogger and the timeless "Why did the chicken cross the road?" joke.  ---  Happy clucking, and enjoy the chaos!
+- **Contact**: Reach out via [GitHub](https://github.com/ChillHackLab) or email (info@chillhack.net) for feedback or inquiries.
+- **Contributions**: Want to contribute? Check the repository for issues or submit pull requests with improvements or bug fixes.
 
+## Support the Developer
+If you like this game, please buy me a coffee!
+
+**BTC**: 3MNNntE4NtKiiwWEutXSPitVhubfuBeLLr
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgments
+- **Pygame Community**: Thanks for providing an awesome library for game development.
+- **Inspiration**: Classic arcade games like Frogger and the timeless "Why did the chicken cross the road?" joke.
+
+---
+
+Happy clucking, and enjoy the chaos!
